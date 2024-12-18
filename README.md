@@ -23,7 +23,8 @@ Ensure you have the following installed:
 
 2. Navigate to the project directory:
    - cd PDF_Merger_p
-3. pip install -r requirements.txt for windows and pip3 install -r requirements.txt for Mac & Linux users.
+3. - pip install -r requirements.txt   for Windows  OR
+   - pip3 install -r requirements.txt  for Mac & Linux users.
 
 
 Usage
