@@ -22,8 +22,10 @@ Ensure you have the following installed:
    git clone https://github.com/mohajjalinkhan/python_pdf_merger.git
 
 2. Navigate to the project directory:
-   - cd PDF_Merger_p
-3. - pip install -r requirements.txt   for Windows  OR
+   - cd python_pdf_merger
+     
+3. install requirements.txt
+   - pip install -r requirements.txt   for Windows  OR
    - pip3 install -r requirements.txt  for Mac & Linux users.
 
 
